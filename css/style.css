@@ -2,6 +2,13 @@
     margin-left: 3rem;
 }
 
+.skill-items-two{
+    margin-left: 3rem;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+
 .column-headers{
     font-weight: 600;
 }
